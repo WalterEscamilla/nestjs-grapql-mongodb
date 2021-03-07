@@ -61,6 +61,9 @@ $ npm run start:prod
 
 ```
 
+    In localhost:3000/graphql 
+you can see playground for [graphql](https://graphql.org/) and test your endpoonts
+
   
 
 ## License
